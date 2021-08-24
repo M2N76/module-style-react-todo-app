@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https;//M2N76.github.io/module-style-react-todo-app/static/css/main.3ef2c926.chunk.css",
+    "main.js": "/https;//M2N76.github.io/module-style-react-todo-app/static/js/main.4200912f.chunk.js",
+    "main.js.map": "/https;//M2N76.github.io/module-style-react-todo-app/static/js/main.4200912f.chunk.js.map",
+    "runtime-main.js": "/https;//M2N76.github.io/module-style-react-todo-app/static/js/runtime-main.a06f9f46.js",
+    "runtime-main.js.map": "/https;//M2N76.github.io/module-style-react-todo-app/static/js/runtime-main.a06f9f46.js.map",
+    "static/js/2.48364d17.chunk.js": "/https;//M2N76.github.io/module-style-react-todo-app/static/js/2.48364d17.chunk.js",
+    "static/js/2.48364d17.chunk.js.map": "/https;//M2N76.github.io/module-style-react-todo-app/static/js/2.48364d17.chunk.js.map",
+    "index.html": "/https;//M2N76.github.io/module-style-react-todo-app/index.html",
+    "static/css/main.3ef2c926.chunk.css.map": "/https;//M2N76.github.io/module-style-react-todo-app/static/css/main.3ef2c926.chunk.css.map",
+    "static/js/2.48364d17.chunk.js.LICENSE.txt": "/https;//M2N76.github.io/module-style-react-todo-app/static/js/2.48364d17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a06f9f46.js",
+    "static/js/2.48364d17.chunk.js",
+    "static/css/main.3ef2c926.chunk.css",
+    "static/js/main.4200912f.chunk.js"
+  ]
+}
